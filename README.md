@@ -32,10 +32,11 @@ I love to learn and contribute in any and every possible way.
 - 🌱 Learning all about:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
-<!--
+
 ##### My GitHub Stats
   
-  ![Github Stats By Mehmet](https://github-readme-stats.vercel.app/api?username=smebrahimi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)  
-</br>-->
-
+![Github Stats By Mehmet](https://github-readme-stats.vercel.app/api?username=smebrahimi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)  
+</br>
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact)
+-->
