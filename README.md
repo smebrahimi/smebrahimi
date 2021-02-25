@@ -6,7 +6,7 @@ I love to learn and contribute in any and every possible way.
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/somayeh-ebrahimi-a026ab99)
 
-##### Languages I use
+#####	&#10084;
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-444444?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=html5&logoColor=white)
