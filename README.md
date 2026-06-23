@@ -4,7 +4,7 @@
 I love to learn and contribute in any and every possible way.
 
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/somayeh-ebrahimi-a026ab99)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/somayehebrahimi/)
 
 #####	&#10084;
 
